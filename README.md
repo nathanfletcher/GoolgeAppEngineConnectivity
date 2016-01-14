@@ -5,3 +5,5 @@ It's an Async Task with a method that uses HTTPURLConnection. Please note that H
 Once the Async task is in your MainActivity you initialize and call it like this:
 <code>AndroidGAEConnection fetch = new AndroidGAEConnection();
         fetch.execute();</code>
+        
+<h3>JavaScript: [coming soon]</h3>
